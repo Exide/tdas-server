@@ -1,5 +1,5 @@
 # tdas-server
-This is the server backend for TDAS.
+Server backend for the game TDAS.
 
 ## Build
 
