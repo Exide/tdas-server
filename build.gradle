@@ -19,6 +19,8 @@ dependencies {
     compile 'org.eclipse.jetty:jetty-servlet:9.4.12.v20180830'
     compile 'org.eclipse.jetty.websocket:javax-websocket-server-impl:9.4.12.v20180830'
     compile 'javax.websocket:javax.websocket-api:1.1'
+    compile 'org.la4j:la4j:0.6.0'
+    compile 'com.timgroup:java-statsd-client:3.0.1'
 
     testCompile 'org.junit.jupiter:junit-jupiter-api:5.3.1'
     testCompile 'org.mockito:mockito-all:1.10.19'

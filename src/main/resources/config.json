@@ -1,0 +1,13 @@
+{
+  "network": {
+    "address": "localhost",
+    "port": 8080
+  },
+  "levelName": "debug",
+  "updatesPerSecond": 100,
+  "metrics": {
+    "address": "localhost",
+    "port": 8125,
+    "prefix": "tdas.server"
+  }
+}
